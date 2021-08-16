@@ -1,7 +1,7 @@
 ---
 title: Johannes Söding
 role: Research Group Leader
-avatar_filename: avatar.jpg
+avatar_filename: original.jpg
 bio: My research interests include ....
 interests:
   - xx
