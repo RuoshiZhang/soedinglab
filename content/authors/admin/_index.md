@@ -1,7 +1,7 @@
 ---
 title: Johannes Söding
 role: Research Group Leader
-avatar_filename: original.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include ....
 interests:
   - xx
@@ -25,7 +25,7 @@ education:
     - course: XXX
       institution: Max Planck Institute for Biophysical Chemistry
 email: soeding@mpibpc.mpg.de
-superuser: false
+superuser: true
 highlight_name: false
 ---
 
