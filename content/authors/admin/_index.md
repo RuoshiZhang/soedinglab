@@ -1,7 +1,7 @@
 ---
 title: Johannes Söding
 role: Research Group Leader
-avatar_filename: original.jpg
+avatar_filename: https://www.mpibpc.mpg.de/15915809/original-1517424982.jpg?t=eyJ3aWR0aCI6MjgwLCJoZWlnaHQiOjM2MCwiZml0IjoiY3JvcCIsImZpbGVfZXh0ZW5zaW9uIjoianBnIiwib2JqX2lkIjoxNTkxNTgwOX0%3D--bd79454b5c698d5395a5edc1650fe04963d85166
 bio: My research interests include ....
 interests:
   - xx
