@@ -5,7 +5,7 @@ author: admin
 widget_id: PI
 headless: true
 weight: 20
-title: Johannes Söding
+title: ""
 design:
   background:
     image: ""
