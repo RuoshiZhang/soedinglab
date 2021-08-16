@@ -8,7 +8,7 @@ weight: 20
 title: ""
 design:
   background:
-    image: original.jpg
+    image: ""
 ---
 
 
