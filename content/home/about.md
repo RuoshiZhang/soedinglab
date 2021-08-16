@@ -2,10 +2,10 @@
 widget: about
 active: true
 author: admin
-widget_id: Johannes Söding
+widget_id: PI
 headless: true
 weight: 20
-title: ""
+title: Johannes Söding
 design:
   background:
     image: ""
