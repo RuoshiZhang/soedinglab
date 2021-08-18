@@ -3,9 +3,9 @@ role: Research Group Leader
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - xx
-  - xx
-  - xx
+  - Sequence Analysis
+  - Metagenomics
+  - System Medicine
 social:
   - icon: graduation-cap
     icon_pack: fas
