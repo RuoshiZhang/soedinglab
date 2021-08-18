@@ -2,7 +2,7 @@
 widget: pages
 widget_id: publications
 weight: 40
-title: Recent Publications
+title: Selected Publications
 subtitle: ""
 content:
   page_type: publication
