@@ -1,6 +1,6 @@
 ---
 role: Research Group Leader
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include ...
 interests:
   - Sequence Analysis
@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://github.com/soedinglab
   - icon: envelope
-    icon_pack: fab
+    icon_pack: far
     link: soeding@mpibpc.mpg.de
 organizations:
   - name: Max Planck Institute for Biophysical Chemistry
