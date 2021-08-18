@@ -1,7 +1,7 @@
 ---
 title: Etienne Morice
 role: PhD student
-avatar_filename: ""
+avatar_filename: avatar.png
 social: []
 organizations: []
 superuser: false
