@@ -1,7 +1,7 @@
 ---
 role: Research Group Leader
-avatar_filename: https://www.mpibpc.mpg.de/15915809/original-1517424982.jpg?t=eyJ3aWR0aCI6MjgwLCJoZWlnaHQiOjM2MCwiZml0IjoiY3JvcCIsImZpbGVfZXh0ZW5zaW9uIjoianBnIiwib2JqX2lkIjoxNTkxNTgwOX0%3D--bd79454b5c698d5395a5edc1650fe04963d85166
-bio: My research interests include ....
+avatar_filename: avatar.jpg
+bio: ""
 interests:
   - xx
   - xx
@@ -16,16 +16,23 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/soedinglab
-organizations:
-  - name: Max Planck Institute for Biophysical Chemistry
-    url: https://www.mpibpc.mpg.de/en
+organizations: []
 education:
   courses:
-    - course: XXX
-      institution: Max Planck Institute for Biophysical Chemistry
+    - course: Group leader
+      institution: Computational Biology Group,  Max Planck Institute of Biophysical
+        Chemistry
+    - course: Staff scientist
+      institution: Max Planck Institute for Developmental Biology
+    - course: PhD in physics
+      institution: University of Heidelberg
+      year: 1998
+    - course: Diploma in physics
+      institution: University of Heidelberg
+      year: 1987
 superuser: true
 user_groups:
-  - group_leader
+  - Researcher
 highlight_name: false
 title: Johannes Söding
 email: soeding@mpibpc.mpg.de
