@@ -24,11 +24,6 @@ organizations:
     url: https://www.mpibpc.mpg.de/en
 education:
   courses:
-    - course: Group leader
-      institution: Computational Biology Group,  Max Planck Institute of Biophysical
-        Chemistry
-    - course: Staff scientist
-      institution: Max Planck Institute for Developmental Biology
     - course: PhD in physics
       institution: University of Heidelberg
       year: 1998
