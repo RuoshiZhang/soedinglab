@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://github.com/soedinglab
   - icon: envelope
-    icon_pack: far
+    icon_pack: fas
     link: soeding@mpibpc.mpg.de
 organizations:
   - name: Max Planck Institute for Biophysical Chemistry
