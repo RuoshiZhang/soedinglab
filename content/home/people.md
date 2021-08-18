@@ -2,6 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
+widget_id: People
 # This file represents a page section.
 headless: true  
 # Activate this widget? true/false
@@ -9,8 +10,7 @@ active = true
 # Order that this section will appear.
 weight = 68  
 
-title = "Meet the Team"
-subtitle = ""
+title = Meet the Team
 
 content:
   # Choose which groups/teams of users to display.
