@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: Join our team
+widget_id: join
 headless: true
-weight: 100
+weight: 80
 title: Join our team!
 active: true
 design:
