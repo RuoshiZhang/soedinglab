@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Group Description
 headless: true
-weight: 0
+weight: 10
 title: Quantitative and Computational Biology
 active: true
 design:
