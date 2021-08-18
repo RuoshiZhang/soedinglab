@@ -1,7 +1,7 @@
 ---
 title: Salma Sohrabi-Jahromi
 role: PhD
-avatar_filename: ""
+avatar_filename: avatar.png
 social: []
 organizations: []
 superuser: false
