@@ -1,8 +1,12 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+
+title = "Meet the Team"
+subtitle = ""
 
 content:
   # Choose which groups/teams of users to display.
@@ -21,5 +25,5 @@ design:
   # Show user's role?
   show_role: true
   # Show user's organizations/affiliations?
-  show_organizations: true
+  show_organizations: false
 ---
