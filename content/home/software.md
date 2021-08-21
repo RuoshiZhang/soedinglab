@@ -13,7 +13,7 @@ design:
 ---
 Our open-source software is available on [our lab's GitHub page](https://github.com/soedinglab).
 
-**Most used software:**
+**Software:**
 
 [HH-suite for sensitive protein sequence searching using hidden Markov models](https://github.com/soedinglab/hh-suite "hhsuite GitHub")
 
@@ -24,6 +24,8 @@ Our open-source software is available on [our lab's GitHub page](https://github
 [CCMpred: protein residue-residue Contacts from Correlated Mutations](https://github.com/soedinglab/CCMpred "compared")
 
 [WiSH: Who is the host? prediction of phage-host relationships](https://github.com/soedinglab/wish)
+
+[kClust: A fast and sensitive clustering method for protein sequences] (https://github.com/soedinglab/kClust)
 
 **Webservers:**
 
