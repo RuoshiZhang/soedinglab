@@ -11,7 +11,6 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Our open-source software is available on [our lab's GitHub page](https://github.com/soedinglab).
 
 **Software:**
 
@@ -26,6 +25,8 @@ Our open-source software is available on [our lab's GitHub page](https://github
 [WiSH: Who is the host? prediction of phage-host relationships](https://github.com/soedinglab/wish)
 
 [kClust: A fast and sensitive clustering method for protein sequences](https://github.com/soedinglab/kClust)
+
+Find the complete list of our open-source software in the [GitHub page](https://github.com/soedinglab)
 
 **Webservers:**
 
