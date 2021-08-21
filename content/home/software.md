@@ -25,7 +25,7 @@ Our open-source software is available on [our lab's GitHub page](https://github
 
 [WiSH: Who is the host? prediction of phage-host relationships](https://github.com/soedinglab/wish)
 
-[kClust: A fast and sensitive clustering method for protein sequences] (https://github.com/soedinglab/kClust)
+[kClust: A fast and sensitive clustering method for protein sequences](https://github.com/soedinglab/kClust)
 
 **Webservers:**
 
