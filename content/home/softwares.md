@@ -15,10 +15,10 @@ design:
 **Most used software:**
 
 
-[![MMseqs2](mmseqs2.png "MMseqs2")](https://mmseqs.com/) | [HH-suite](https://github.com/soedinglab/hh-suite) | ![Plass](plass.png "Plass")(https://plass.mmseqs.com/) | ![MetaEuk](metaeuk.png "MetaEuk")(https://metaeuk.soedinglab.org) | ![SpacePHARER](spacePHARER.png "SpacePHARER")(https://spacepharer.soedinglab.org) | ![WIsH](wish.png "WIsH")(https://github.com/soedinglab/WIsH)
+[![MMseqs2](mmseqs2.png "MMseqs2")](https://mmseqs.com/) | [HH-suite](https://github.com/soedinglab/hh-suite) | [![Plass](plass.png "Plass")](https://plass.mmseqs.com/) | [![MetaEuk](metaeuk.png "MetaEuk")](https://metaeuk.soedinglab.org) | [![SpacePHARER](spacepharer.png "SpacePHARER")](https://spacepharer.soedinglab.org) | [![WIsH](wish.png "WIsH")](https://github.com/soedinglab/WIsH)
 -|-|-|-|-|-
 
-[![BaMMmotif2](BaMMmotif.png "BaMMmotif2")](https://bammmotif.soedinglab.org/) | [Bipartite Motif Finder(BMF)](https://bmf.soedinglab.org/) | [Tejaas](https://github.com/soedinglab/tejaas) | ![B-LORE](blore.png "B-LORE")(https://github.com/soedinglab/b-lore) | ![PROSSTT](prosstt.png "PROSSTT")(https://github.com/soedinglab/prosstt) | ![MERLot](merlot.png "MERLot")(https://github.com/soedinglab/merlot)
+[![BaMMmotif2](bammmotif.png "BaMMmotif2")](https://bammmotif.soedinglab.org/) | [Bipartite Motif Finder(BMF)](https://bmf.soedinglab.org/) | [Tejaas](https://github.com/soedinglab/tejaas) | [![B-LORE](blore.png "B-LORE")](https://github.com/soedinglab/b-lore) | [![PROSSTT](prosstt.png "PROSSTT")](https://github.com/soedinglab/prosstt) | [![MERLot](merlot.png "MERLot")](https://github.com/soedinglab/merlot)
 -|-|-|-|-|-
 
 
