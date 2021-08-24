@@ -15,6 +15,8 @@ Our open-source software is available on [our lab's GitHub page](https://github
 
 **Most used software:**
 
+![screen reader text](mmseqs2.png "caption")
+
 mmseqs2.png | plass.png | metaeuk.png
 --|--|--
 MMseqs2 | Plass | MetaEuk
