@@ -17,6 +17,8 @@ Our open-source software is available on [our lab's GitHub page](https://github
 
 ![screen reader text](mmseqs2.png "caption")
 
+[![MMseqs2](mmseqs2.png "MMseqs2 ")](https://mmseqs.com/) | ![Plass] (plass.png, "Plass") | ![MetaEuk](metaeuk.png, "MetaEuk")
+
 mmseqs2.png | plass.png | metaeuk.png
 --|--|--
 MMseqs2 | Plass | MetaEuk
