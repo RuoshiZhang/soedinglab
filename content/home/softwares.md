@@ -11,18 +11,19 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Our open-source software is available on [our lab's GitHub page](https://github.com/soedinglab).
 
 **Most used software:**
 
-![screen reader text](mmseqs2.png "caption")
 
-[![MMseqs2](mmseqs2.png "MMseqs2")](https://mmseqs.com/) | ![Plass](plass.png "Plass") | ![MetaEuk](metaeuk.png "MetaEuk")
---|--|--
+[![MMseqs2](mmseqs2.png "MMseqs2")](https://mmseqs.com/) | [HH-suite](https://github.com/soedinglab/hh-suite) | ![Plass](plass.png "Plass")(https://plass.mmseqs.com/) | ![MetaEuk](metaeuk.png "MetaEuk")(https://metaeuk.soedinglab.org) | ![SpacePHARER](spacePHARER.png "SpacePHARER")(https://spacepharer.soedinglab.org) | ![WIsH](wish.png "WIsH")(https://github.com/soedinglab/WIsH)
+-|-|-|-|-|-
 
-mmseqs2.png | plass.png | metaeuk.png
---|--|--
-MMseqs2 | Plass | MetaEuk
+[![BaMMmotif2](BaMMmotif.png "BaMMmotif2")](https://bammmotif.soedinglab.org/) | [Bipartite Motif Finder(BMF)](https://bmf.soedinglab.org/) | [Tejaas](https://github.com/soedinglab/tejaas) | ![B-LORE](blore.png "B-LORE")(https://github.com/soedinglab/b-lore) | ![PROSSTT](prosstt.png "PROSSTT")(https://github.com/soedinglab/prosstt) | ![MERLot](merlot.png "MERLot")(https://github.com/soedinglab/merlot)
+-|-|-|-|-|-
+
+
+Our open-source software is available on [our lab's GitHub page](https://github.com/soedinglab).
+
 
 [HH-suite for sensitive protein sequence searching using hidden Markov models](https://github.com/soedinglab/hh-suite "hhsuite GitHub")
 
