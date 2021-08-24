@@ -15,6 +15,10 @@ Our open-source software is available on [our lab's GitHub page](https://github
 
 **Most used software:**
 
+{{< figure src="softwares/mmseqs2.png" caption="MMseqs2" numbered="true" >}}
+
+{{< figure src="softwares/plass.png" caption="Plass" numbered="true" >}}
+
 [HH-suite for sensitive protein sequence searching using hidden Markov models](https://github.com/soedinglab/hh-suite "hhsuite GitHub")
 
 [MMseqs2 ultra fast and sensitive sequence searching and clustering: https://mmseqs.com](https://mmseqs.com/ "mmseqs2")
