@@ -13,7 +13,7 @@ design:
 ---
 We gratefully acknowledge financial support from the following sources:
 
-![DFG](dfg.png) |![BMBF](bmbf.png) | ![Virus-X](virusx.png)
--|-|-
+![DFG](dfg.png) | |![BMBF](bmbf.png) | | ![Virus-X](virusx.png)
+-|-|-|-|-
 
 
