@@ -15,7 +15,8 @@ Our open-source software is available on [our lab's GitHub page](https://github
 
 **Most used software:**
 
-!\[screen reader text](mmseqs2.png "MMseqs2")(https://mmseqs.com/) | !\[screen reader text](plass.png "Plass")(plass.mmseqs.com) |
+./mmseqs2.png | ./plass.png | ./metaeuk.png
+MMseqs2 | Plass | MetaEuk
 
 [HH-suite for sensitive protein sequence searching using hidden Markov models](https://github.com/soedinglab/hh-suite "hhsuite GitHub")
 
