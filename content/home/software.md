@@ -32,6 +32,8 @@ design:
 
 [Tejaas](https://github.com/soedinglab/tejaas): A reverse regression model to detect trans-eQTLs. [(read more here)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02361-8)
 
+[BaMMotif2](https://github.com/soedinglab/BaMMmotif2): A Bayesian Markov Model software to identity transcription factor binding motifs. [read more here] (https://academic.oup.com/nargab/article/3/2/lqab026/6240708)
+
 Find the complete list of our open-source software in our the [GitHub](https://github.com/soedinglab)
 
 **Webservers:**
