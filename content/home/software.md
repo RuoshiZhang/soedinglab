@@ -28,9 +28,9 @@ design:
 
 [spacepharer: sensitive identification of phages from crispr spacers in prokaryotic hosts](https://github.com/soedinglab/spacepharer) [(paper)](https://academic.oup.com/bioinformatics/article/37/19/3364/6207963)
 
-[MetaEuk—sensitive, high-throughput gene discovery, and annotation for large-scale eukaryotic metagenomics](https://github.com/soedinglab/metaeuk) [(paper)](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x)paper
+[MetaEuk—sensitive, high-throughput gene discovery, and annotation for large-scale eukaryotic metagenomics](https://github.com/soedinglab/metaeuk) [(paper)](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x)
 
-[Tejaas: reverse regression increases power for detecting trans-eQTLs](https://github.com/soedinglab/tejaas) [(paper)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02361-8)
+Tejaas: reverse regression increases power for detecting trans-eQTLs [github](https://github.com/soedinglab/tejaas) [(read more here)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02361-8)
 
 Find the complete list of our open-source software in our the [GitHub](https://github.com/soedinglab)
 
