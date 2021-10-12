@@ -18,8 +18,6 @@ design:
 
 [MMseqs2 ultra fast and sensitive sequence searching and clustering: https://mmseqs.com](https://mmseqs.com/ "mmseqs2")  [(paper)](https://academic.oup.com/bioinformatics/article/32/9/1323/1744460)
 
-#[Datenbanken fuer MMseqs2 software: https:/data.mmseqs.com](https://www.mpibpc.mpg.de/data.mmseqs.com)[](https://data.mmseqs.com/ "mmseqs2 databases")
-
 [_De novo_ protein-level assembler for metagenomic samples](https://github.com/soedinglab/plass) [(paper)](https://www.nature.com/articles/s41592-019-0437-4)
 
 [CCMpred: protein residue-residue Contacts from Correlated Mutations](https://github.com/soedinglab/CCMpred "compared")  [(paper)](https://academic.oup.com/bioinformatics/article/30/21/3128/2422261)
@@ -41,6 +39,8 @@ Find the complete list of our open-source software in our the [GitHub](https://g
 Some of our tools are available as webservice in [MPI Bioinformatics Toolkit](https://toolkit.tuebingen.mpg.de/) of our colleagues from Tübingen.
 
 MMSeqs2 server for fast sequence similarity search: <https://search.mmseqs.com/search>
+
+[Datenbanken fuer MMseqs2 software: https:/data.mmseqs.com](https://www.mpibpc.mpg.de/data.mmseqs.com)[](https://data.mmseqs.com/ "mmseqs2 databases")
 
 BaMMmotif2 webserver for motif discovery and analysis in DNA and RNA sequences: [https://bammmotif.soedinglab.org](https://bammmotif.soedinglab.org/)
 
