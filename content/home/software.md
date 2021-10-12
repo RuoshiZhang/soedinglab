@@ -22,7 +22,7 @@ design:
 
 [CCMpred](https://github.com/soedinglab/CCMpred "compared"): A fast and high precision tool to find protein residue-residue Contacts based on correlated Mutations. [(read more here)](https://academic.oup.com/bioinformatics/article/30/21/3128/2422261)
 
-[WiSH](https://github.com/soedinglab/wish): A prediction tool for host-phage relationships. [(read more here)](https://academic.oup.com/bioinformatics/article/33/19/3113/3964377)
+[WIsH](https://github.com/soedinglab/wish): A prediction tool for host-phage relationships. [(read more here)](https://academic.oup.com/bioinformatics/article/33/19/3113/3964377)
 
 [kClust](https://github.com/soedinglab/kClust): A fast and sensitive clustering method for protein sequences. [(read more here)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-248)
 
