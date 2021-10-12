@@ -18,7 +18,7 @@ design:
 
 [MMseqs2](https://mmseqs.com/ "mmseqs2"): A ultra fast and sensitive sequence searching and clustering method. [(read more here)](https://academic.oup.com/bioinformatics/article/32/9/1323/1744460)
 
-[Plass](https://github.com/soedinglab/plass):_De novo_ protein-level assembler for metagenomic samples. [(read more here)](https://www.nature.com/articles/s41592-019-0437-4)
+[Plass](https://github.com/soedinglab/plass): _De novo_ protein-level assembler for metagenomic samples. [(read more here)](https://www.nature.com/articles/s41592-019-0437-4)
 
 [CCMpred](https://github.com/soedinglab/CCMpred "compared"): A fast and high precision tool to find protein residue-residue Contacts based on correlated Mutations. [(read more here)](https://academic.oup.com/bioinformatics/article/30/21/3128/2422261)
 
@@ -40,7 +40,7 @@ Some of our tools are available as webservice in [MPI Bioinformatics Toolkit](h
 
 MMSeqs2 server for fast sequence similarity search: <https://search.mmseqs.com/search>
 
-[Datenbanken fuer MMseqs2 software: https:/data.mmseqs.com](https://www.mpibpc.mpg.de/data.mmseqs.com)[](https://data.mmseqs.com/ "mmseqs2 databases")
+Datenbanken fuer MMseqs2 software: <https:/data.mmseqs.com> [https://data.mmseqs.com/ "mmseqs2 databases"](https://www.mpibpc.mpg.de/data.mmseqs.com)
 
 BaMMmotif2 webserver for motif discovery and analysis in DNA and RNA sequences: [https://bammmotif.soedinglab.org](https://bammmotif.soedinglab.org/)
 
